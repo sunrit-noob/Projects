@@ -9,5 +9,3 @@ try:
   df.to_csv(the_file)
 except Exception as ex:
   print(ex)
-else:
-  
