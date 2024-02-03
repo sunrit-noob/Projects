@@ -5,4 +5,4 @@ The file with the same name but extension.pptx contains the basis and idea of th
 
 Similarly the Stock_Data_Visualization_Project_2.ipynb contains the code of the Stock Data Visualization Project and the file with same name but .pptx extension contains the idea and results of the project.
 
-The CSV files mostly contain the data for each project, but most of the data will be downloaded using yfinance during running both the program files.
+The CSV files mostly contain the data for each project, but most of the data will be downloaded using yfinance during running each of the program files.
